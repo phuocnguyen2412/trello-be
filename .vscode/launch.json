@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://Colunm",
+            "request": "launch",
+            "url": "http://Colunm"
+        }
+    ]
+}
